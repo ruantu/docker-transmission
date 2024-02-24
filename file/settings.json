@@ -1,0 +1,12 @@
+{
+  "rpc-port": 9091,
+  "rpc-enabled": true,
+  "peer-port": 9092,
+  "peer-port-random-on-start": false,
+  "lpd-enabled": true,
+  "watch-dir": "/root/downloads/watch",
+  "watch-dir-enabled": true,
+  "download-dir": "/root/downloads/complete",
+  "incomplete-dir": "/root/downloads/incomplete",
+  "incomplete-dir-enabled": true
+}
